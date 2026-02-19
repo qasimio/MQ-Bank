@@ -24,7 +24,7 @@ A desktop banking application built with **C++** and the **Qt framework**, featu
 
 ## Getting the Source
  
- git clone https://github.com/Kas-sim/MQ-Bank.git
+ git clone https://github.com/qasimio/MQ-Bank.git
  
 -  Clone this repository
 -  To run → install Qt Creator
